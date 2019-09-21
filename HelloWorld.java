@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static int computeUltimateAnswer() {
-    return 6 * 7;
+    return 7 * 6;
   }
   public static void main(String[] args) {
    
