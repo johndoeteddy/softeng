@@ -1,6 +1,9 @@
 public class HelloWorld {
   public static int computeUltimateAnswer() {
-    return "still searching...";
+
+    System.out.println("still searching...");
+
+    return 7 * 6;
   }
   public static void main(String[] args) {
    
